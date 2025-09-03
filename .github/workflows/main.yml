@@ -6,7 +6,7 @@
 
  jobs:
    demo:
-     rum-on: ubunto-latest
+     run-on: ubunto-latest
 
      steps:
        - name: Greetings
